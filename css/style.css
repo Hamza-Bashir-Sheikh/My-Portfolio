@@ -561,7 +561,7 @@ header.sticky .nav-bar{
   width: 50%;
 }
 .bar .jquery:before{
-  width: 0%;
+  width: 40%;
 }
 .bar .php:before{
   width: 0%;
