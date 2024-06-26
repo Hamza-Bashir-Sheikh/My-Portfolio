@@ -563,8 +563,8 @@ header.sticky .nav-bar{
 .bar .jquery:before{
   width: 40%;
 }
-.bar .php:before{
-  width: 0%;
+.bar .Node.js:before{
+  width: 50%;
 }
 
 .experience-card{
