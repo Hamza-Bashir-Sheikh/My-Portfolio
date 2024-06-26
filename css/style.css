@@ -558,12 +558,18 @@ header.sticky .nav-bar{
   width: 70%;
 }
 .bar .javascript:before{
-  width: 50%;
+  width: 60%;
 }
 .bar .jquery:before{
-  width: 40%;
+  width: 50%;
 }
-.bar .Node.js:before{
+.bar .Node:before{
+  width: 50%;
+}
+.bar .Express:before{
+  width: 50%;
+}
+.bar .MongoDB:before{
   width: 50%;
 }
 
